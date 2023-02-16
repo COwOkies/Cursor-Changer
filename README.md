@@ -1,9 +1,10 @@
 # Cursor-Changer
-CursorChanger let you change your windows cursor depending of the active app.
+CursorChanger is a Python program taht let you change your windows cursor depending of the active app.
 
 ----------------------
 Install requirements :
-pip install -r requirements.txt
+-Python
+-pip install -r requirements.txt
 
 You can change values manually from the config.ini file, or use the config.pyw file.
 
